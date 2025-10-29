@@ -3,7 +3,7 @@
 
 # Features
 ## Explain me the GUI
-After clicking on 'main.py', the first Flashcard is displayed with a randomly chosen foreign word:
+After running `main.py` with Python, the first Flashcard is displayed with a randomly chosen foreign word:
 <img src="Screenshots/flashcard.png" alt="Flashcard" width="500"><br>
 After a few seconds, the translation of the word is shown.
 
@@ -34,5 +34,5 @@ When adding new words, you add them only into the file 'words_to_learn.csv.' The
 - Install the following packages that are not part of the standard Python installation if you don't have them yet:
     - pip install pandas
 - You populate the file 'words_to_learn.csv' with the words you would like to learn.
-- You can setup the flip time in seconds in the following constant in the main.py file: FLIP_TIME_IN_SECONDS = 5.
-- run 'main.py'.
+- You can setup the flip time in seconds in the following constant in the 'main.py' file: FLIP_TIME_IN_SECONDS = 5.
+- run `main.py` with Python.
