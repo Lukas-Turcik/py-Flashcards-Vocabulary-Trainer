@@ -1,36 +1,5 @@
-language1,language2,level
-ungläubig,neveriacky,1.0
-lauern,striehnut,1.0
-der Leim,lepidlo,1.0
-der Kleister,lepidlo,1.0
-einschärfen,vštepovať/pripomínať,1.0
-lauschen,nacuvat,1.0
-wohl,dobre/asi/pravdepodobne,
-denn,lebo/pretoze/azda/vari/hadam,1.0
-bestimmt,isto/urcite,1.0
-anstarren,zízať/civieť/uprene sa dívať,1.0
-das Steckbrief,zatykač,1.0
-die Aufforderung,výzva,1.0
-zweckdienlich,účelný/prospešný/užitočný,1.0
-der Stoppelbart,strnisko,1.0
-die Bekanntmachung,oznámenie/vyhláška,1.0
-stammeln,zajakávať sa/koktať,1.0
-verhören,vypočúvať/prepočuť/zle počuť,1.0
-unverhofft,neočakávaný/nepredvídaný,1.0
-nunmehr,odteraz/teraz/už,1.0
-wohl,dobre/asi,1.0
-das Gerangel,klbčenie sa,1.0
-stur,zarytý/neústupný,1.0
-der Leib,telo,1.0
-greifen,chytiť/vziať/siahnuť,1.0
-rumpeln,rachotiť/lomoziť/šramotiť,1.0
-der Karren,kára/vozík,1.0
-plumpsen,pesknúť/čľupnúť,1.0
-sämtlich,všetko/všetka,1.0
-samt,spolu/s/vrátane,1.0
-hieven,zodvihnúť,1.0
-raunzen,nadávať/hromžiť,1.0
-der Befehl,rozkaz,1.0
-bloß,holý/len/iba,1.0
-jubeln,jasať/plesať/radovať sa,1.0
-fabelhaft,úžasný/vynikajúci/báječný,1.0
+foreign;translation;level
+der Leim;lepidlo;1
+der Kleister;lepidlo;1
+einschärfen;vštepovať/pripomínať;1
+wohl;dobre/asi/pravdepodobne;1
