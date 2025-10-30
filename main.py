@@ -7,7 +7,6 @@ from tkinter import messagebox
 import random
 
 import pandas as pd
-import pyperclip
 
 UNIQUE_COL = "foreign"
 ALL_PATH = "data/words_to_learn_all.csv"
